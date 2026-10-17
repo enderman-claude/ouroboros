@@ -1,6 +1,6 @@
-# Self-Hosted Compiler Project: Notes
+# Ouroboros: Self-Hosted Compiler Notes
 
-A compiler written in its own language, bootstrapped from a minimal Rust seed. The repo name ends in `-bootstrap` for the seed.
+Ouroboros is a compiler written in its own language, bootstrapped from a minimal Rust seed. The seed repo name ends in `-bootstrap`.
 
 ## Overview
 
